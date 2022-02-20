@@ -1,2 +1,2 @@
-# 3d-models
- All of my 3D models, free to use, forever
+# 3D-models
+ A collection 3D models, free to use, forever
